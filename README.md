@@ -2,7 +2,7 @@
 
 汇总国内外各大平台推荐系统竞赛的TOP开源解决方案，持续更新中。
 
-### Tianchi天池平台
+### Ranking(TOP-N) 比赛
 
 1. KDD Cup 2020 Challenges for Modern E-Commerce Platform: Debiasing（2020 KDD Cup 纠偏赛道）
 
@@ -17,6 +17,18 @@
 - 【第八名】https://github.com/miziha-zp/KDD2020_mutilmodalities
 - 【第十名】https://github.com/dingyh0626/KDD-Cup-Multimodalities-Recall
 - 【第十二名】https://github.com/chengsyuan/KDD-Multimodalities-Recall
+
+3. CIKM 2019 E-Commerce AI Challenge - 超大规模推荐之用户兴趣高效检索
+- 【第一名】https://github.com/ChuanyuXue/CIKM-2019-AnalytiCup
+- 【第十名】https://github.com/kupuSs/CIKM-CUP-2019-track2-rank10
+
+4. 第二届阿里巴巴大数据智能云上编程大赛
+- 【第一名】https://github.com/hydantess/TianChi_zhilianzhaopin
+- 【第四名】https://github.com/juzstu/TianChi_ZhiLianZhaoPin
+- 【第二十四名】https://github.com/magicwifi/zhaopin-zhilian
+- 
+
+### Rating 比赛
 
 ### 联系方式 Contact Info
 
