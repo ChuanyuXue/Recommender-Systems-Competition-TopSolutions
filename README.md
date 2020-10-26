@@ -26,9 +26,22 @@
 - 【第一名】https://github.com/hydantess/TianChi_zhilianzhaopin
 - 【第四名】https://github.com/juzstu/TianChi_ZhiLianZhaoPin
 - 【第二十四名】https://github.com/magicwifi/zhaopin-zhilian
-- 
 
 ### Rating 比赛
+
+1. 2018科大讯飞AI营销算法大赛
+- 【第一名】https://github.com/bettenW/2018-iFLYTEK-Marketing-Algorithms-Competition-Finals-Rank1
+- 【第二名】https://github.com/infturing/kdxf
+- 【第二十一名】https://github.com/Michaelhuazhang/-AI21-
+
+2. 2018 IJCAI 阿里妈妈搜索广告转化预测
+- 【第一名】https://github.com/plantsgo/ijcai-2018
+- 【第二名】https://github.com/YouChouNoBB/ijcai-18-top2-single-mole-solution
+- 【第三名】https://github.com/luoda888/2018-IJCAI-top3
+- 【第四名】https://github.com/fanfanda/ijcai_2018
+
+
+
 
 ### 联系方式 Contact Info
 
