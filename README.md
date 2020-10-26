@@ -22,7 +22,7 @@
 - 【第一名】https://github.com/ChuanyuXue/CIKM-2019-AnalytiCup
 - 【第十名】https://github.com/kupuSs/CIKM-CUP-2019-track2-rank10
 
-4. 第二届阿里巴巴大数据智能云上编程大赛
+4. 第二届阿里巴巴大数据智能云上编程大赛（智联招聘岗位推荐）
 - 【第一名】https://github.com/hydantess/TianChi_zhilianzhaopin
 - 【第四名】https://github.com/juzstu/TianChi_ZhiLianZhaoPin
 - 【第二十四名】https://github.com/magicwifi/zhaopin-zhilian
