@@ -1,6 +1,6 @@
 ## 推荐系统竞赛TOP开源方案汇总
 
-汇总国内外各大平台推荐系统竞赛的TOP开源解决方案，持续更新中。
+汇总国内外各大平台近年来推荐系统竞赛的TOP开源解决方案，持续更新中。
 
 ### Ranking(TOP-N) 比赛
 
@@ -26,6 +26,23 @@
 - 【第一名】https://github.com/hydantess/TianChi_zhilianzhaopin
 - 【第四名】https://github.com/juzstu/TianChi_ZhiLianZhaoPin
 - 【第二十四名】https://github.com/magicwifi/zhaopin-zhilian
+
+5. BDCI 2018 面向电信行业存量用户的智能套餐个性化匹配模型
+- 【第一名】https://github.com/PPshrimpGo/BDCI2018-ChinauUicom-1st-solution
+- 【第二名】https://github.com/PandasCute/2018-CCF-BDCI-China-Unicom-Research-Institute-top2
+- 【第六名】https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6
+
+6. 图灵联邦视频点击预测大赛
+- 【第三名】https://github.com/LogicJake/tuling-video-click-top3
+- 【第四名】https://github.com/biaobiao2/video-click-top4
+- 【第六名】https://github.com/ljhzxc/turingtopia_video_ctr
+- 【第七名】https://github.com/zavierhan/turing_video_ctr_top7
+- 【第九名】https://github.com/Tersaiz/Turingtopia_Videos_CTR
+
+7. 2017 达观杯个性化推荐算法挑战赛
+- 【第六名】https://github.com/hecongqing/2017-daguan-competition
+
+
 
 ### Rating 比赛
 
