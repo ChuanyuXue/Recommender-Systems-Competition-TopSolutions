@@ -42,6 +42,29 @@
 7. 2017 达观杯个性化推荐算法挑战赛
 - 【第六名】https://github.com/hecongqing/2017-daguan-competition
 
+8. BDCI 2017 商场中精确定位用户所在店铺
+- 【第一名】https://github.com/drop-out/Tianchi-Wifi-Positioning
+- 【第七名】https://github.com/totoruo/TianChi-Shop-Location-Competition
+- 【第九名】https://github.com/longxiong2016/Store_positioning
+- 【第三十名】https://github.com/pamperxg/CCF-TIANCHI-WiFipositioning
+
+9. 安泰杯 跨境电商智能算法大赛
+- 【第一名】https://github.com/RainFung/Tianchi-AntaiCup-International-E-commerce-Artificial-Intelligence-Challenge
+
+10. 2020 腾讯广告算法大赛
+- 【第一名】https://github.com/guoday/Tencent2020_Rank1st
+- 【第五名】https://github.com/zhangqibot/Tencent2020_Top5
+- 【第十一名】https://github.com/wujiekd/2020-Tencent-advertising-algorithm-contest-rank11
+- 【第十二名】https://github.com/LogicJake/Tencent_Ads_Algo_2020_TOP12
+- 【第十九名】https://github.com/PerpetualSmile/2020-Tencent-Advertisement-Algorithm-Competition-Rank19
+
+11. 2019 智源-看山杯专家发现算法大赛
+- 【第三名】https://github.com/Travisgogogo/BAAI-ZHIHU-2019
+- 【第四名】https://github.com/VoldeMortzzz/2019Baai-zhihu-Cup-findexp-4th
+- 【第六名】https://github.com/liuchenailq/zhihu-findexp
+- 【第七名】https://github.com/jt120/BAAI-zhihu-2019
+
+
 
 
 ### Rating 比赛
