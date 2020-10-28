@@ -80,8 +80,23 @@
 - 【第三名】https://github.com/luoda888/2018-IJCAI-top3
 - 【第四名】https://github.com/fanfanda/ijcai_2018
 
+3. 2018 腾讯广告算法大赛
+- 【第三名】https://github.com/DiligentPanda/Tencent_Ads_Algo_2018
+- 【第六名】https://github.com/nzc/tencent-contest
+- 【第七名】https://github.com/guoday/Tencent2018_Lookalike_Rank7th
+- 【第九名】https://github.com/ouwenjie03/tencent-ad-game
+- 【第十名】https://github.com/keyunluo/Tencent2018_Lookalike_Rank10th
+
+4. 2017腾讯广告算法大赛
+- 【第十四名】https://github.com/freelzy/Tencent_Social_Ads
+- 【第二十名】https://github.com/shenweichen/Tencent_Social_Ads2017_Mobile_App_pCVR
 
 
+### 链接推荐
+
+1. 国内数据竞赛Top解决方案开源整理 https://github.com/Smilexuhc/Data-Competition-TopSolution
+2. 比赛检索神器网站coggle https://coggle.club/
+3. Kaggle top方案整理：https://github.com/EliotAndres/kaggle-past-solutions
 
 ### 联系方式 Contact Info
 
