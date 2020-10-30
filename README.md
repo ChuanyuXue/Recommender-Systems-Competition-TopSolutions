@@ -64,7 +64,20 @@
 - 【第六名】https://github.com/liuchenailq/zhihu-findexp
 - 【第七名】https://github.com/jt120/BAAI-zhihu-2019
 
+12. WSDM - KKBox's Music Recommendation（Kaggle 2018）
+- 【第一名】https://github.com/lystdo/Codes-for-WSDM-CUP-Music-Rec-1st-place-solution
+- 【第三名】https://github.com/VasiliyRubtsov/wsdm_music_recommendations
 
+13. Santander Product Recommendation
+- 【第二名】https://github.com/ttvand/Santander-Product-Recommendation
+- 【第八名】https://github.com/yaxen/santander-product-recommendation-8th-place
+- 【第十四名】https://github.com/yaxen/santander-product-recommendation-8th-place
+- 【第二十一名】https://github.com/apryor6/Kaggle-Competition-Santander
+
+14. 2019 ACM RecSys Challenge
+- 【第二名】https://github.com/layer6ai-labs/RecSys2019
+- 【第四名】https://github.com/rosetta-ai/rosetta_recsys2019
+- 【第七名】https://github.com/mustelideos/recsys-challenge-2019
 
 
 ### Rating 比赛
@@ -90,6 +103,12 @@
 4. 2017腾讯广告算法大赛
 - 【第十四名】https://github.com/freelzy/Tencent_Social_Ads
 - 【第二十名】https://github.com/shenweichen/Tencent_Social_Ads2017_Mobile_App_pCVR
+
+5. Elo Merchant Category Recommendation（kaggle 2018）
+- 【第二十一名】https://github.com/bestpredicts/ELO
+
+6. 2020 ACM RecSys Challenge
+- 【第四名】https://github.com/sumitsidana/recsys_challenge_2020
 
 
 ### 链接推荐
